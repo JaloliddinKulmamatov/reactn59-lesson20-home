@@ -1,0 +1,15 @@
+p {
+  color: #656262;
+}
+
+li::marker {
+  color: #656262;
+}
+
+h1 {
+  font-size: 44px;
+}
+
+h2 {
+  font-size: 25px;
+}
